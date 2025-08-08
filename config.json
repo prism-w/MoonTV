@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "yzzy": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
       "name": "优质资源库"
     },
     "heimuer": {
