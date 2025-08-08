@@ -1,14 +1,10 @@
 {
-  "cache_time": 7200,
+  "cache_time": 10000,
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
-    },
-    "yzzy": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
-      "name": "优质资源库"
     },
       "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
