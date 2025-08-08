@@ -6,9 +6,9 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "yjx": {
-      "api": "https://api.yparse.com/api/json",
-      "name": "云解析"
+    "yzzy": {
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "name": "优质资源库"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
