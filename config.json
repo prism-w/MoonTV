@@ -10,6 +10,10 @@
       "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
       "name": "优质资源库"
     },
+      "myzy": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
