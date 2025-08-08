@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
       "myzy": {
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json/",
       "name": "猫眼资源"
     },
     "heimuer": {
